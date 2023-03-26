@@ -1,3 +1,5 @@
+##Check the size of different data types for your system using sizeof(Variable_name)
+
 #include <iostream>
 using namespace std;
 
