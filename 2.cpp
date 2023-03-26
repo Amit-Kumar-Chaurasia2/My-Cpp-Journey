@@ -1,3 +1,5 @@
+##Using different data types in Code
+
 #include <iostream>
 using namespace std;
 
